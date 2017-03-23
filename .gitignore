@@ -1,7 +1,4 @@
 *.swp
-.sconf_temp
-.sconsign.dblite
-build
 *.pyc
 doc
 *.opendb
@@ -15,3 +12,40 @@ x64
 libgringo/generated
 homewv.sh
 .nfs*
+
+# From forked clingo-cpp
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# clingos build folder
+build
+/Debug/
+.sconf_temp/
+.sconsign.dblite

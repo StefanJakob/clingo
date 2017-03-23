@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package>
+  <name>clingo</name>
+  <version>0.0.0</version>
+  <description>This package is a fork from Potassco repository of the University of Potsdam.</description>
+
+  <maintainer email="opfer@vs.uni-kassel.de">Stephan Opfer</maintainer>
+
+  <license>GPLv3</license>
+
+  <url type="website">https://github.com/potassco/clingo/</url>
+
+  <author>Thorsten Schaub</author>
+  <author>Roland Kaminski</author>
+  <author>Benjamin Kaufmann</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+
+
+  <export>
+  </export>
+</package>
